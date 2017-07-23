@@ -134,3 +134,6 @@
 #msg-box4-10 .mbr-article {
   color: #ffffff;
 }
+#msg-box4-10 .mbr-article P {
+  font-size: 25px;
+}

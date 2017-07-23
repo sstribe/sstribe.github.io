@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 49,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": ""
@@ -297,8 +297,8 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">12 CARA HILANGKAN MASALAH DENGKURAN</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sstribestore.com/\">UTAMA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\">BORANG</a></li>"
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIPS HILANGKAN MASALAH BERDENGKUR</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sstribestore.com/utama.html\">UTAMA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\">BORANG</a></li>"
         },
         {
           "_inherit": "features1",
@@ -631,8 +631,8 @@
           "_anchor": "content5-d",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "showTitle": true,
             "showText": false,
             "showButton": false,
@@ -1437,6 +1437,34 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "image2",
+          "_anchor": "image2-1a",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tidur-berdengkur-1400x1050.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content1",
           "_styles": {
             "P": {
@@ -1446,7 +1474,7 @@
             }
           },
           "_anchor": "content1-z",
-          "text": "<p>Nak diskaun lagi? </p><p>Ok macam ni. Kami nak belanja anda poslaju ke depan rumah atau ke ofis anda.</p><p>Tapi ada syaratnya. :)</p><p>Kami mahu anda bagi feedback kepada kami perkembangan dengkur anda selepas menggunakan produk ini.</p><p>Terhad untuk <b>50 unit</b> je tau <b>FREE POSTAGE</b> ni. Sape cepat dia dapat. :)&nbsp;</p>"
+          "text": "<p><b>Nak diskaun lagi?</b></p><p><br></p><p> </p><p>Ok macam ni. Kami nak belanja anda kos <b>POSLAJU</b> ke depan rumah atau ke ofis anda.</p><p>Tapi ada syaratnya. :)</p><p><br></p><p>Kami mahu anda bagi <b>feedback</b> kepada kami perkembangan dengkur anda selepas menggunakan produk ini.</p><p>Dan,</p><p>Promosi <b>FREE POSTAGE</b> ni terhad kepada&nbsp;<b>50 unit</b> je tau. Sape cepat dia dapat. :)&nbsp;</p>"
         },
         {
           "_inherit": "msg-box5",
@@ -1462,6 +1490,9 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "25px"
             }
           },
           "_name": "msg-box4",
@@ -1486,7 +1517,7 @@
             "showTitle": false,
             "showMeta": false,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1516,6 +1547,37 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Jika tiada sebarang perubahan dalam masa 30 hari, kami akan pulangkan wang anda 100%.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Pembelian</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/man-sleeping-web-2000x1334.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "BERMINAT NAK CUBA?",
+          "text": "KLIK BUTANG PEMBELIAN DI BAWAH",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Pembelian</a>"
         },
         {
           "_tags": [
