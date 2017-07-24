@@ -1,20 +1,22 @@
 {
   "settings": {
     "name": "Penawar Dengkur",
-    "currentPage": "penawardengkur.html",
+    "currentPage": "utama.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 46,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
-    "penawardengkur.html": {
+    "utama.html": {
       "settings": {
         "main": true,
         "title": "Cara Mudah Hilangkan Dengkur Dengan Cepat",
@@ -25,29 +27,23 @@
       },
       "components": [
         {
-          "alias": "htmlblock",
+          "alias": "deltapieditor",
           "_tags": [
             "Extension"
           ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-1d",
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-19",
           "_params": {
-            "blockTitle": "",
-            "HTMLCode": "<h1><!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</h1>",
-            "paddingTop": "0",
+            "_customHTML": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n",
+            "_customCSS": "",
             "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
             "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "extEdit": false
+            "bgColorRadio": true
           },
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "",
-          "HTMLCode": "<h1><!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</h1>"
+          "_customCSS": "",
+          "_customHTML": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n"
         },
         {
           "_tags": [
@@ -119,16 +115,8 @@
             "showArrow": false
           },
           "title": "",
-          "text": "<p>Hari-hari bini komplen cakap susah nak tidur. Mana tak nya laki dia baru letak kepala tak sampai lima minit dah bunyi enjin kapal. Dah lali dah. Macam-macam bunyi keluar. <br><br>Tapi kesian jugak tengok laki tu, kadang-kadang macam tersangkut nafas. Ha kalau macam ni dah sampai tahap merbahaya dah.<br> <br>Mari saya terangkan serba sedikit tahap-tahap dengkur. Nanti anda boleh cek tahap mana dengkur anda sekarang.<br></p><br><p><br>Ketahui tiga tahap dengkur yang biasa dialami oleh rakyat Malaysia<br>&nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. Dengkur semasa letih sahaja.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2. Dengkur disebabkan resdung atau tonsil.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. Sentiasa berdengkur.</p><br><p><br></p><p><br></p>",
+          "text": "<p>Hari-hari bini komplen cakap susah nak tidur. Mana tak nya laki dia baru letak kepala tak sampai lima minit dah bunyi enjin kapal. Dah lali dah. Macam-macam bunyi keluar. <br><br>Tapi kesian jugak tengok laki tu, kadang-kadang macam tersangkut nafas. Ha kalau macam ni dah sampai tahap merbahaya dah.<br> <br>Mari saya terangkan serba sedikit tahap-tahap dengkur. Nanti anda boleh cek tahap mana dengkur anda sekarang.<br></p><br><p><br>Ketahui tiga tahap dengkur yang biasa dialami oleh rakyat Malaysia<br>&nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. Dengkur semasa letih sahaja.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2. Dengkur disebabkan resdung atau tonsil.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. Sentiasa berdengkur.</p><br><p><br></p>Ketiga-tiga tahap dengkur tu menyebabkan punca utama dengkur terjadi iaitu laluan pernafasan sempit di sekitar kerongkong.<br><br>Tahap ketiga merupakan tahap di mana dengkur tu dah jadi tabiat atau dalam bahasa omputihnya \"habit\" diri. <br><br>Tahap satu dan dua tu po boleh jadi tahap ketiga bila badan dah biasa dengan masalah dengkur tu dan tabiat tu akan kekal terjadi bila kita dalam keadaan separa sedar atau tidur.<br><br>Tetapi jangan risau, setiap penyakit/masalah ada penyembuhnya kecuali mati.<br>Ikuti tips mudah dari kami cara alami untuk hilangkan dengkur.<br><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1f",
-          "text": "<p>Ketiga-tiga tahap dengkur tu menyebabkan punca utama dengkur terjadi iaitu laluan pernafasan sempit di sekitar kerongkong.</p><p><br></p><p>Tahap ketiga merupakan tahap di mana dengkur tu dah jadi tabiat atau dalam bahasa omputihnya \"habit\" diri.&nbsp;</p><p><br></p><p>Tahap satu dan dua tu po boleh jadi tahap ketiga bila badan dah biasa dengan masalah dengkur tu dan tabiat tu akan kekal terjadi bila kita dalam keadaan separa sedar atau tidur.</p><p><br></p><p>Tetapi jangan risau, setiap penyakit/masalah ada penyembuhnya kecuali mati.</p><p>Ikuti tips mudah dari kami cara alami untuk hilangkan dengkur.</p>"
         },
         {
           "_inherit": "features1",
@@ -282,7 +270,12 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          }
         },
         {
           "_styles": {
@@ -295,10 +288,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#333333"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#292929"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -310,7 +303,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-a",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#333333",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#000000",
@@ -330,8 +323,8 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"utama.html#content4-9\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIPS HILANGKAN MASALAH BERDENGKUR</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"utama.html#header2-6\">UTAMA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\">BORANG</a></li>"
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"utama.html#content4-9\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CARA HILANGKAN MASALAH DENGKURAN</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"utama.html#header2-6\">UTAMA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\">BORANG</a></li>"
         },
         {
           "_inherit": "features1",
@@ -485,7 +478,12 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          }
         },
         {
           "_inherit": "features1",
@@ -639,7 +637,12 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          }
         },
         {
           "_inherit": "msg-box3",
@@ -664,8 +667,8 @@
           "_anchor": "content5-d",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": false,
             "showButton": false,
@@ -1255,6 +1258,9 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#7c706b"
             }
           },
           "_tags": [
@@ -1471,7 +1477,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-1a",
+          "_anchor": "image2-17",
           "_params": {
             "outside": false,
             "showText": false
@@ -1507,7 +1513,7 @@
             }
           },
           "_anchor": "content1-z",
-          "text": "<p><b>Nak diskaun lagi?</b></p><p><br></p><p> </p><p>Ok macam ni. Kami nak belanja anda kos <b>POSLAJU</b> ke depan rumah atau ke ofis anda.</p><p>Tapi ada syaratnya. :)</p><p><br></p><p>Kami mahu anda bagi <b>feedback</b> kepada kami perkembangan dengkur anda selepas menggunakan produk ini.</p><p>Dan,</p><p>Promosi <b>FREE POSTAGE</b> ni terhad kepada&nbsp;<b>50 unit</b> je tau. Sape cepat dia dapat. :)&nbsp;</p>"
+          "text": "<p>Satu perkara lagi, kami nak tanya anda.</p><p><br></p><p>Nak tak kalau saya bagi <b>FREE POSTAGE</b>? :)</p><p><br></p><p>Ok macam ni. Kami nak bagi FREE POSTAGE bermula hari ni.</p><p><br></p><p>Tetapi ada syaratnya.</p><p>Syaratnya cuma ialah, kami mahu anda bagi <b>FEEDBACK</b>&nbsp;kepada kami perkembangan dengkur anda selepas menggunakan produk ini. Boleh kami monitor perkembangan masalah dengkur anda nanti. :)</p><p><br></p><p>Dan,</p><p><br></p><p>hanya promosi ini hanya terhad untuk <b>50 unit</b> je tau <b>FREE POSTAGE</b> ni. Sape cepat dia dapat. :)&nbsp;</p><p>(Bilangan kuota free postage ada di ruang borang pembelian)</p>"
         },
         {
           "_inherit": "msg-box5",
@@ -1525,7 +1531,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-size": "25px"
+              "font-size": "30px",
+              "text-align": "center"
             }
           },
           "_name": "msg-box4",
@@ -1588,7 +1595,7 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-1c",
+          "_anchor": "header4-18",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
@@ -1609,8 +1616,8 @@
             "showArrow": false
           },
           "title": "BERMINAT NAK CUBA?",
-          "text": "KLIK BUTANG PEMBELIAN DI BAWAH",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Pembelian</a>"
+          "text": "Klik butang pembelian di bawah.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Pembelian</a>"
         },
         {
           "_tags": [
