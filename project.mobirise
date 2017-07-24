@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -75,49 +75,12 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
-          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header2",
-          "_styles": {
-            "H1": {
-              "font-size": "22px",
-              "text-align": "left",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#777777",
-              "text-align": "left",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "header2-6",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "images/bg2.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "title": "",
-          "text": "<p>Hari-hari bini komplen cakap susah nak tidur. Mana tak nya laki dia baru letak kepala tak sampai lima minit dah bunyi enjin kapal. Dah lali dah. Macam-macam bunyi keluar. <br><br>Tapi kesian jugak tengok laki tu, kadang-kadang macam tersangkut nafas. Ha kalau macam ni dah sampai tahap merbahaya dah.<br> <br>Mari saya terangkan serba sedikit tahap-tahap dengkur. Nanti anda boleh cek tahap mana dengkur anda sekarang.<br></p><br><p><br>Ketahui tiga tahap dengkur yang biasa dialami oleh rakyat Malaysia<br>&nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. Dengkur semasa letih sahaja.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2. Dengkur disebabkan resdung atau tonsil.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. Sentiasa berdengkur.</p>Ketiga-tiga tahap dengkur tu menyebabkan punca utama dengkur terjadi iaitu laluan pernafasan sempit di sekitar kerongkong.<br><br>Tahap ketiga merupakan tahap di mana dengkur tu dah jadi tabiat atau dalam bahasa omputihnya \"habit\" diri. <br><br>Tahap satu dan dua tu po boleh jadi tahap ketiga bila badan dah biasa dengan masalah dengkur tu dan tabiat tu akan kekal terjadi bila kita dalam keadaan separa sedar atau tidur.<br><br>Tetapi jangan risau, setiap penyakit/masalah ada penyembuhnya kecuali mati.<br>Ikuti tips mudah dari kami cara alami untuk hilangkan dengkur.<br><p><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "_name": "content1",
+          "_anchor": "content1-1d",
+          "text": "<p>Hari-hari bini komplen cakap susah nak tidur. Mana tak nya laki dia baru letak kepala tak sampai lima minit dah bunyi enjin kapal. Dah lali dah. Macam-macam bunyi keluar.&nbsp;</p><p><br></p><p>Tapi kesian jugak tengok laki tu, kadang-kadang macam tersangkut nafas. Ha kalau macam ni dah sampai tahap merbahaya dah.</p><p><br></p><p>Mari saya terangkan serba sedikit tahap-tahap dengkur. Nanti anda boleh cek tahap mana dengkur anda sekarang.</p><p><br></p><p>Ketahui tiga tahap dengkur yang biasa dialami oleh rakyat Malaysia</p><p>&nbsp; &nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. Dengkur semasa letih sahaja.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2. Dengkur disebabkan resdung atau tonsil.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. Sentiasa berdengkur.</p><p>Ketiga-tiga tahap dengkur tu menyebabkan punca utama dengkur terjadi iaitu laluan pernafasan sempit di sekitar kerongkong.</p><p><br></p><p>Tahap ketiga merupakan tahap di mana dengkur tu dah jadi tabiat atau dalam bahasa omputihnya \"habit\" diri.&nbsp;</p><p><br></p><p>Tahap satu dan dua tu po boleh jadi tahap ketiga bila badan dah biasa dengan masalah dengkur tu dan tabiat tu akan kekal terjadi bila kita dalam keadaan separa sedar atau tidur.</p><p><br></p><p>Tetapi jangan risau, setiap penyakit/masalah ada penyembuhnya kecuali mati.</p><p>Ikuti tips mudah dari kami cara alami untuk hilangkan dengkur.</p>"
         },
         {
           "_inherit": "features1",
@@ -195,7 +158,7 @@
             }
           },
           "title2": "Bahan Pendingin<div><br></div>",
-          "caption2": "Sekiranya kesejukan atau kesesakan nafas yang meyebabkan anda berdengkur, anda boleh menggunakan bahan pendingin seperti vicks sebelum tidur. Ini adalah unutk mengeringkan rongga hidung dan meningkatkan aliran udara pernafasan untuk mengurangkan berdengkur.<br>Anda juga dinasihatkan untuk menyapukan vicks pada bahagian dada sebelum tidur untuk melancarkan pernafasan.<br>",
+          "caption2": "Sekiranya kesejukan atau kesesakan nafas yang meyebabkan anda berdengkur, anda boleh menggunakan bahan pendingin seperti vicks sebelum tidur. Ini adalah untuk mengeringkan rongga hidung dan meningkatkan aliran udara pernafasan untuk mengurangkan berdengkur.<br>Anda juga dinasihatkan untuk menyapukan vicks pada bahagian dada sebelum tidur untuk melancarkan pernafasan.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
