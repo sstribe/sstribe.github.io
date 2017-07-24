@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 49,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -790,7 +790,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#f97352",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -810,7 +810,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17553421-722034151308839-284919548099875597-n-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-07-18-at-11-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -879,7 +879,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/17553421-722034151308839-284919548099875597-n-1400x1400.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1471,35 +1471,43 @@
             }
           },
           "_anchor": "content1-y",
-          "text": "<p>Postage cuma perlu tambah <b>RM7</b> untuk semenanjung atau <b>RM12</b> untuk sabah sarawak.</p>"
+          "text": "<p>Postage cuma perlu tambah <b>RM7</b> untuk semenanjung atau <b>RM12</b> untuk sabah sarawak.</p><p>Satu perkara lagi, kami nak tanya anda.</p>"
         },
         {
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-17",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1c",
           "_params": {
-            "outside": false,
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tidur-berdengkur-1400x1050.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-07-18-at-11-2000x2000.png",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "title": "NAK TAK KALAU KAMI BAGI FREE POSTAGE? :)",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_styles": {
+            "H1": {
+              "color": "#f7da64"
+            }
+          }
         },
         {
           "_tags": [
@@ -1514,7 +1522,7 @@
             }
           },
           "_anchor": "content1-z",
-          "text": "<p>Satu perkara lagi, kami nak tanya anda.</p><p><br></p><p>Nak tak kalau saya bagi <b>FREE POSTAGE</b>? :)</p><p><br></p><p>Ok macam ni. Kami nak bagi FREE POSTAGE bermula hari ni.</p><p><br></p><p>Tetapi ada syaratnya.</p><p>Syaratnya cuma ialah, kami mahu anda bagi <b>FEEDBACK</b>&nbsp;kepada kami perkembangan dengkur anda selepas menggunakan produk ini. Boleh kami monitor perkembangan masalah dengkur anda nanti. :)</p><p><br></p><p>Dan,</p><p><br></p><p>hanya promosi ini hanya terhad untuk <b>50 unit</b> je tau <b>FREE POSTAGE</b> ni. Sape cepat dia dapat. :)&nbsp;</p><p>(Bilangan kuota free postage ada di ruang borang pembelian)</p>"
+          "text": "<p><br></p><p>Ok macam ni. Kami nak bagi FREE POSTAGE bermula hari ni.<br></p><p><br></p><p>Tetapi ada syaratnya.</p><p>Syaratnya cuma ialah, kami mahu anda bagi <b>FEEDBACK</b>&nbsp;kepada kami perkembangan dengkur anda selepas menggunakan produk ini. Boleh kami monitor/pantau perkembangan masalah dengkur anda nanti. :)</p><p><br></p><p>Dan,</p><p><br></p><p>promosi ini hanya terhad untuk <b>50 unit</b> je tau <b>FREE POSTAGE</b> ni. Sape cepat dia dapat. :)&nbsp;<br></p><p>(Bilangan kuota free postage ada di ruang borang tempahan)</p>"
         },
         {
           "_inherit": "msg-box5",
@@ -1617,8 +1625,8 @@
             "showArrow": false
           },
           "title": "BERMINAT NAK CUBA?",
-          "text": "Klik butang pembelian di bawah.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Pembelian</a>"
+          "text": "Klik butang tempahan di bawah.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Tempahan</a>"
         },
         {
           "_tags": [
@@ -1795,7 +1803,7 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-12",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Pembelian</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Tempahan</a> "
         },
         {
           "_tags": [
