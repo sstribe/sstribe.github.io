@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Penawar Dengkur",
-    "currentPage": "faktadengkur.html",
+    "currentPage": "puncadengkur.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 81,
+    "uniqCompNum": 82,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -1792,8 +1792,8 @@
     },
     "puncadengkur.html": {
       "settings": {
-        "title": "Punca Dengkur",
-        "meta_descr": ""
+        "title": "5 Punca Masalah Dengkur",
+        "meta_descr": "Tidur Malam Lebih Aman Tanpa Dengkur"
       },
       "components": [
         {
@@ -2296,6 +2296,31 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-29",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE DEKAT KAWAN"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "footer1",
           "_anchor": "footer1-1f",
           "_params": {
@@ -2316,8 +2341,8 @@
     },
     "faktadengkur.html": {
       "settings": {
-        "title": "Fakta Dengkur",
-        "meta_descr": ""
+        "title": "Fakta Dengkur Yang Perlu Anda Tahu",
+        "meta_descr": "Tidur Malam Lebih Aman Tanpa Dengkur"
       },
       "components": [
         {
