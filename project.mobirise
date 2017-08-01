@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 138,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -3503,7 +3503,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/234567890-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/234567890.gif",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -3756,7 +3756,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-3e",
+          "_anchor": "image2-3t",
           "_params": {
             "outside": false,
             "showText": false
@@ -3876,7 +3876,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18666.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18668.jpg",
               "link": "",
               "alt": "",
               "title": "",
