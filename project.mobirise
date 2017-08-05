@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Penawar Dengkur",
-    "currentPage": "penawarmujarabdengkur.html",
+    "currentPage": "mitostentangdengkur.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 138,
+    "uniqCompNum": 149,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -3435,13 +3435,13 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3a",
-          "text": "<ul><li>Dengkur disebakan berat badan berlebihan.<br></li><li>Dengkur hanya ketika terlalu penat.</li><li>Selalu dengkur</li><li>Dengkur disebabkan tonsil</li><li>Dengkur disebabkan resdung</li><li>Selsema yang kerap</li></ul>",
           "_styles": {
             "UL": {
               "text-align": "left"
             }
-          }
+          },
+          "_anchor": "content1-3a",
+          "text": "<ul><li>Dengkur disebakan berat badan berlebihan.<br></li><li>Dengkur hanya ketika terlalu penat.</li><li>Selalu dengkur</li><li>Dengkur disebabkan tonsil</li><li>Dengkur disebabkan resdung</li><li>Selsema yang kerap</li></ul>"
         },
         {
           "_inherit": "msg-box3",
@@ -3876,7 +3876,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x186611.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4372,15 +4372,15 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3p",
-          "text": "<p><i>Disclamer : Tempoh keberkesanan setiap individu adalah berbeza.</i></p>",
           "_styles": {
             "P": {
               "font-size": "13px",
               "text-align": "center",
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "content1-3p",
+          "text": "<p><i>Disclamer : Tempoh keberkesanan setiap individu adalah berbeza.</i></p>"
         },
         {
           "_tags": [
@@ -4388,6 +4388,204 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 SS Tribe Marketing"
+        }
+      ]
+    },
+    "mitostentangdengkur.html": {
+      "settings": {
+        "title": "Mitos Tentang Dengkur",
+        "meta_descr": "Ketahui mitos yang berlegar dalam kalangan masyarakat tentang dengkur."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-3u",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"penawarmujarabdengkur.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PAKAR MASALAH DENGKURAN</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"penawarmujarabdengkur.html\">UTAMA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\">BORANG</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-3w",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1407.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "MITOS KARUT TENTANG DENGKUR",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3x",
+          "text": "<p>Dalam kalangan masyarakat Malaysia masalah dengkur menjadi satu masalah yang biasa dialami oleh semua golongan. Akan tetapi masalah tersebut bukanlah sesuatu yang normal kerana dengkur terhasil apabila saluran pernafasan anda sempit atau tersangkut di keronkong yang boleh mengundang penyakit lain seperti serangan jantung atau stroke. Tanda dengkur anda dah mula menggangu kesihatan adalah bila anda tersa tidak selesa hasil dari tidur berdengkur seperti semput atas selalu tidak bertenaga ketika bangun pagi. Namun demikian, banyak mitos yang sudah lama sebati dalam masyarakat yang belom pasti. Ikuti kupasan kami.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3y",
+          "text": "<p>Mitos : Mendengkur adalah normal.</p><p>Fakta : Mendengkur bukan sesuatu yang normal kerana apabila anda tidur, tubuh anda akan sukar bernafas. Jika dengkur anda dah sampai tahap setiap kali tidur anda berdengkur, ini merupakan pertanda gejala hipertensi atau sleep apnea. Jika perkara berlanjutan sudah bertahun, seseorang itu boleh berisiko mendapat ganggunan kardiovaskular atau jantung. Mereka juga akan berasa lelah dan kurang tidur. Hal ini dapat memepengaruhi rembesan hormon yang berkaitan rapat dengna obesiti.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3z",
+          "text": "<p>Mitos : Mendengkur merupakan masalah si pendengkur shaja.</p><p>Fakta : Jika anda mempunyai pasangan yang berdengkur sudah tentu akan menggangu juga tidur anda. Suara dengkuran yang kuat boleh mencapai 80-90 desibel. 90 desibe bersamaan anda dengar bunyi motosikal dari jarak 25 kaki. Darah orang yang tidur disebelah boleh naik bahkan orang tersebut juga mempunyai risiko ganguna kesihatan dalam waktu yang cukup panjang.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-40",
+          "text": "<p>Mitos : Suara dengkur berasal dari hidung.</p><p>Fakta : Pesakit dengkur jika hidung mereka tersumbat ketika nak tidur, dengkur akan makin parah. Tapi hidung tersumbat bukan punca utama yan menyebabkan bunyi dengkur tu. Biasanya mendengkur terjadi akibat aliran pernafasan ke paru-paru tehalang. Halangan tersebut boleh terjadi sepanjang saluran pernafasan sama ada di rongga hidung, mulut ataupun kerongkrong. Bila uvula (anak lidah) menjadi lemah dandan otot soft palate (langit-langit mulut bahagian belakang) mengendur, udara di saluran pernafasan tidak dapat bergerak dengan lancar dan menghasilakan getaran.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-41",
+          "text": "<p>Mitos : Dengkur hanya dialami oleh orang yang berat badan berlebihan.</p><p>Fakta : Berat badan berlebihan ataupun obesiti merupakan satu faktor penyakit dengkur. Namun begitu orang yang bertubuh badan kecil atau kurus boleh juga menghadapi masalah yang sama. Mengikut kajian daripada National Health Service (NHS), golongan pesakit dengkur ini biasanya mempunyai ukur lilit leher lebih daripda 43 cm.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-42",
+          "text": "<p>Mitos : Dengkur tidak boleh sembuh.</p><p>Fakta : Ada beberapa alternatif pilihan dalam menangani masalah dengkur ini. Biasanya doktor akan menyarankan penggunaan alat CPAP (Continuous positive airway pressure therapy) ataupun cara terakhir ialah dengan cara pembedahan. Ada juga ubat-ubatan yang boleh menyembuhkan masalah dengkur ni dan kebanyakannya daripada luar negara.&nbsp;</p>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-size": "12px"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-44",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "Nak kami bantu anda hilangkan masalah dengkur?<br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"penawarmujarabdengkur.html\" data-toolbar=\"-mbrBtnMove\">Saya Nak</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3v",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
