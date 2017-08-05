@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 149,
+    "uniqCompNum": 153,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -3876,7 +3876,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4535,8 +4535,38 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-42",
-          "text": "<p>Mitos : Dengkur tidak boleh sembuh.</p><p>Fakta : Ada beberapa alternatif pilihan dalam menangani masalah dengkur ini. Biasanya doktor akan menyarankan penggunaan alat CPAP (Continuous positive airway pressure therapy) ataupun cara terakhir ialah dengan cara pembedahan. Ada juga ubat-ubatan yang boleh menyembuhkan masalah dengkur ni dan kebanyakannya daripada luar negara.&nbsp;</p>"
+          "_anchor": "content1-47",
+          "text": "<p>Mitos : Dengkur tidak boleh sembuh.</p><p>Fakta : Ada beberapa alternatif pilihan dalam menangani masalah dengkur ini. Biasanya doktor akan menyarankan penggunaan alat CPAP (Continuous positive airway pressure therapy) ataupun cara terakhir ialah dengan cara pembedahan.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-48",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "Share dengan kawan anda",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "19px"
+            }
+          }
         },
         {
           "_inherit": "msg-box1",
