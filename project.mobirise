@@ -3876,7 +3876,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4470,7 +4470,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1407.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/snoring-man-2000x1333.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4479,7 +4479,7 @@
             "bgVideoRadio": false,
             "contentAlign": "center",
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#222222",
             "showTitle": true,
             "showText": false,
