@@ -458,6 +458,16 @@
 #content5-3k .mbr-article {
   color: #fff;
 }
+#msg-box3-5e .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 25px;
+}
+#msg-box3-5e .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-5e .mbr-article P {
+  text-align: center;
+}
 #content1-3p P {
   font-size: 13px;
   text-align: center;
@@ -495,4 +505,196 @@
 }
 #msg-box2-44 .btn {
   font-size: 12px;
+}
+#msg-box3-4b .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4b .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-4g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-4h .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4h .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4h .mbr-article {
+  color: #fff;
+}
+#dropdown-menu-4i .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-4i .nav .link,
+#dropdown-menu-4i .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+}
+#dropdown-menu-4i .navbar,
+#dropdown-menu-4i .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-4i .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-4i .dropdown-menu a:hover,
+#dropdown-menu-4i .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-4i .navbar-toggler {
+  color: #ffffff;
+}
+#content1-4k P {
+  color: #777777;
+}
+#content5-4m .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4m .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4m .mbr-article {
+  color: #fff;
+}
+#content1-4n UL {
+  text-align: left;
+}
+#content5-4o .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4o .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4o .mbr-article {
+  color: #fff;
+}
+#content1-4q P {
+  color: #777777;
+}
+#content1-4s P {
+  color: #777777;
+}
+#content5-4t .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4t .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4t .mbr-article {
+  color: #fff;
+}
+#msg-box3-4u .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-4u .mbr-article P {
+  color: #7c706b;
+}
+#content5-4v .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4v .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4v .mbr-article {
+  color: #fff;
+}
+#msg-box3-4w .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4w .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-4y .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4y .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4y .mbr-article {
+  color: #fff;
+}
+#msg-box4-4z .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-4z .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-4z .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-4z .mbr-article P {
+  color: #000000;
+  text-align: left;
+  font-size: 20px;
+}
+#content5-50 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+  font-size: 36px;
+}
+#content5-50 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-50 .mbr-article {
+  color: #fff;
+}
+#content5-50 .mbr-article P {
+  color: #000000;
+  text-align: center;
+  font-size: 20px;
+}
+#content1-51 P {
+  color: #000000;
+  text-align: center;
+}
+#content5-52 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ff0501;
+}
+#content5-52 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-52 .mbr-article {
+  color: #fff;
+}
+#content1-54 P {
+  text-align: center;
+  font-size: 20px;
+  color: #000000;
+}
+#content5-55 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-55 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-55 .mbr-article {
+  color: #fff;
+}
+#content1-5c P {
+  font-size: 13px;
+  text-align: center;
+  color: #000000;
 }
