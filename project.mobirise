@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Penawar Dengkur",
-    "currentPage": "puncadengkur.html",
+    "currentPage": "faktadengkur.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -3876,7 +3876,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5854,7 +5854,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
