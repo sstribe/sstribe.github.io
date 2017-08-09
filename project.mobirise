@@ -2441,7 +2441,7 @@
             "showButtons": false,
             "showArrow": true
           },
-          "title": "FAKTA DENGKUR YANG PERLU ANDA DIKETAHUI",
+          "title": "FAKTA DENGKUR YANG PERLU ANDA KETAHUI",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         },
@@ -3876,7 +3876,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18664.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5854,7 +5854,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18664.jpg",
               "link": "",
               "alt": "",
               "title": "",
