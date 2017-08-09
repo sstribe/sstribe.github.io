@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 195,
+    "uniqCompNum": 197,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -2242,7 +2242,7 @@
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2270,8 +2270,8 @@
             "showButtons": true
           },
           "title": "PRE MADE BLOCKS",
-          "text": "Promosi Snorky Cream masih berlangsung. Klik butang PROMOSI untuk lihat promosi terkini",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\" data-toolbar=\"-mbrBtnMove\">PROMOSI</a>"
+          "text": "<b>Mahu kami bantu anda hilangkan masalah dengkur anda yang kuat?</b><br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"penawarmujarabdengkur.html\" data-toolbar=\"-mbrBtnMove\">Saya Nak</a>"
         },
         {
           "alias": "deltapieditor",
@@ -2281,7 +2281,7 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-1g",
           "_params": {
-            "_customHTML": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n",
+            "_customHTML": "<head>\n<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</head>\n<script>fbq('track', 'ViewContent');</script>\n",
             "_customCSS": "",
             "bgImageRadio": false,
             "parallax": false,
@@ -2290,7 +2290,7 @@
             "bgColorRadio": true
           },
           "_customCSS": "",
-          "_customHTML": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n"
+          "_customHTML": "<head>\n<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</head>\n<script>fbq('track', 'ViewContent');</script>\n"
         },
         {
           "_tags": [
@@ -2629,7 +2629,7 @@
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#b8312f",
+              "color": "#000000",
               "font-size": "13px"
             },
             ".mbr-article": {
@@ -2660,9 +2660,9 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "PROMOSI COMBO SPECIAL MASIH ADA KLIK \"SAYA NAK\"",
+          "title": "HILANGKAN DENGKUR SEPANTAS SAPUAN PERTAMA KLIK \"SAYA NAK\"",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://penawardengkur.onpay.my/order/form/snorkycream\" data-toolbar=\"-mbrBtnMove\">SAYA NAK</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"penawarmujarabdengkur.html\" data-toolbar=\"-mbrBtnMove\">SAYA NAK</a>"
         },
         {
           "alias": "deltapieditor",
@@ -2672,7 +2672,7 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-1t",
           "_params": {
-            "_customHTML": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n",
+            "_customHTML": "<head>\n<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</head>\n<script>fbq('track', 'ViewContent');</script>\n",
             "_customCSS": "",
             "bgImageRadio": false,
             "parallax": false,
@@ -2681,7 +2681,7 @@
             "bgColorRadio": true
           },
           "_customCSS": "",
-          "_customHTML": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n"
+          "_customHTML": "<head>\n<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</head>\n<script>fbq('track', 'ViewContent');</script>\n"
         },
         {
           "_tags": [
@@ -4549,7 +4549,7 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3z",
-          "text": "<p>Mitos : Mendengkur merupakan masalah si pendengkur shaja.</p><p>Fakta : Jika anda mempunyai pasangan yang berdengkur sudah tentu akan menggangu juga tidur anda. Suara dengkuran yang kuat boleh mencapai 80-90 desibel. 90 desibe bersamaan anda dengar bunyi motosikal dari jarak 25 kaki. Darah orang yang tidur disebelah boleh naik bahkan orang tersebut juga mempunyai risiko ganguna kesihatan dalam waktu yang cukup panjang.</p>"
+          "text": "<p>Mitos : Mendengkur merupakan masalah si pendengkur shaja.</p><p>Fakta : Jika anda mempunyai pasangan yang berdengkur sudah tentu akan menggangu juga tidur anda. Suara dengkuran yang kuat boleh mencapai 80-90 desibel. 90 desibel bersamaan anda dengar bunyi motosikal dari jarak 25 kaki. Darah orang yang tidur disebelah boleh naik bahkan orang tersebut juga mempunyai risiko ganguna kesihatan dalam waktu yang cukup panjang.</p>"
         },
         {
           "_tags": [
@@ -4606,6 +4606,25 @@
           "text": "Share dengan kawan anda"
         },
         {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-5g",
+          "_params": {
+            "_customHTML": "<head>\n<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</head>\n<script>fbq('track', 'ViewContent');</script>\n",
+            "_customCSS": "",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#3366ff",
+            "bgColorRadio": false
+          },
+          "_customCSS": "",
+          "_customHTML": "<head>\n<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1631608870201299'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1631608870201299&ev=PageView&noscript=1\"\n/></noscript>\n<!-- DO NOT MODIFY -->\n<!-- End Facebook Pixel Code -->\n</head>\n<script>fbq('track', 'ViewContent');</script>\n"
+        },
+        {
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -4626,7 +4645,7 @@
           "_anchor": "msg-box2-44",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
