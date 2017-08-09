@@ -256,7 +256,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1861,7 +1861,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2379,7 +2379,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -3299,7 +3299,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -3876,7 +3876,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4481,7 +4481,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -5277,7 +5277,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -5854,7 +5854,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
               "link": "",
               "alt": "",
               "title": "",
