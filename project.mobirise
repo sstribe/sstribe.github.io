@@ -3899,7 +3899,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4099,7 +4099,8 @@
               "font-size": "48px"
             },
             "B": {
-              "color": "#ff0a0a"
+              "color": "#ff0a0a",
+              "text-align": "center"
             }
           }
         },
@@ -4109,7 +4110,7 @@
           ],
           "_name": "content1",
           "_anchor": "content1-5j",
-          "text": "<p>Di bulan kemerdekaan ni, kami ada buat promosi potongan diskaun sebanyak 20% bersempena kejayaan produk kami membantu hampir <b>75% pengguna</b> bulan lepas iaitu bulan Julai, <b>hilangkan</b> masalah dengkur mereka secara <b>kekal</b>. Dengan itu kami amat berbesar hati untuk menghadiahkan pengguna yang baru nak mencuba dengan diskaun sebanyak 20%.</p>",
+          "text": "<p><br></p><p>Di bulan kemerdekaan ni, kami ada buat promosi potongan diskaun sebanyak 20% bersempena kejayaan produk kami membantu hampir <b>75% pengguna</b> bulan lepas iaitu bulan Julai, <b>hilangkan</b> masalah dengkur mereka secara <b>kekal</b>. Dengan itu kami amat berbesar hati untuk menghadiahkan pengguna yang baru nak mencuba dengan diskaun sebanyak 20%.</p>",
           "_styles": {
             "P": {
               "color": "#000000"
@@ -5859,7 +5860,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
