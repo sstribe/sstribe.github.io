@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 203,
+    "uniqCompNum": 205,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -3899,7 +3899,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18664.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4087,22 +4087,47 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ff0a0a",
+              "font-size": "36px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-5i",
-          "text": "<b>Diskaun 20%</b>",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "font-size": "48px"
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5n",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "B": {
-              "color": "#ff0a0a",
-              "text-align": "center"
-            }
-          }
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "DISKAUN 20%",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -4110,7 +4135,7 @@
           ],
           "_name": "content1",
           "_anchor": "content1-5j",
-          "text": "<p><br></p><p>Di bulan kemerdekaan ni, kami ada buat promosi potongan diskaun sebanyak 20% bersempena kejayaan produk kami membantu hampir <b>75% pengguna</b> bulan lepas iaitu bulan Julai, <b>hilangkan</b> masalah dengkur mereka secara <b>kekal</b>. Dengan itu kami amat berbesar hati untuk menghadiahkan pengguna yang baru nak mencuba dengan diskaun sebanyak 20%.</p>",
+          "text": "<p>Di bulan kemerdekaan ni, kami ada buat promosi potongan diskaun sebanyak 20% bersempena kejayaan produk kami membantu hampir <b>75% pengguna</b> bulan lepas iaitu bulan Julai, <b>hilangkan</b> masalah dengkur mereka secara <b>kekal</b>. Dengan itu kami amat berbesar hati untuk menghadiahkan pengguna yang baru nak mencuba dengan diskaun sebanyak 20%.<br></p>",
           "_styles": {
             "P": {
               "color": "#000000"
@@ -4136,13 +4161,16 @@
           ],
           "_name": "content1",
           "_anchor": "content1-5m",
-          "text": "<p><i><br></i></p><p><i>Jangan tunggu lama-lama</i></p><p><i>Nanti lama-lama</i></p><p><i>Dia diambil orang</i></p><p><i>- Rami Sarip -</i></p>",
+          "text": "<pre><i>Jangan tunggu lama-lama</i></pre><pre><i>Nanti lama-lama</i></pre><pre><i>Dia diambil orang</i></pre><pre><i>- Rami Sarip -</i></pre>",
           "_styles": {
             "P": {
               "text-align": "center",
               "color": "#000000",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "PRE": {
+              "text-align": "center"
             }
           }
         },
@@ -5860,7 +5888,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18664.jpg",
               "link": "",
               "alt": "",
               "title": "",

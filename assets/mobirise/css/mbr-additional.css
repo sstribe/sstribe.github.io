@@ -456,12 +456,12 @@
 #content5-5h .mbr-article {
   color: #fff;
 }
-#content1-5i DIV {
+#msg-box3-5n .mbr-header .mbr-header__text {
   text-align: center;
-  font-size: 48px;
-}
-#content1-5i B {
   color: #ff0a0a;
+  font-size: 36px;
+}
+#msg-box3-5n .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #content1-5j P {
@@ -474,6 +474,9 @@
   text-align: center;
   color: #000000;
   font-family: 'Roboto', sans-serif;
+}
+#content1-5m PRE {
+  text-align: center;
 }
 #msg-box3-5e .mbr-header .mbr-header__text {
   text-align: center;
