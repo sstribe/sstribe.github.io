@@ -1957,13 +1957,16 @@
 #content5-cd .mbr-article {
   color: #fff;
 }
-#msg-box3-cf .mbr-header .mbr-header__text {
+#content5-cp .mbr-header .mbr-header__text {
   text-align: center;
-  color: #ffffff;
-  font-size: 36px;
+  color: #fff;
 }
-#msg-box3-cf .mbr-header .mbr-header__subtext {
+#content5-cp .mbr-header .mbr-header__subtext {
   text-align: center;
+  color: #fff;
+}
+#content5-cp .mbr-article {
+  color: #fff;
 }
 #content1-cg P {
   color: #000000;
