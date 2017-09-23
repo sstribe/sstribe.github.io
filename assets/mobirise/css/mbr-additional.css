@@ -1798,3 +1798,202 @@
   text-align: center;
   color: #000000;
 }
+
+#content1-bk P {
+  color: #000000;
+}
+#msg-box3-bl .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-bl .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-bl .mbr-article P {
+  color: #000000;
+}
+#content1-bn P {
+  color: #000000;
+}
+#msg-box3-bq .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-bq .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-bq .mbr-article P {
+  color: #000000;
+}
+#content5-br .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-br .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-br .mbr-article {
+  color: #fff;
+}
+#dropdown-menu-bs .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-bs .nav .link,
+#dropdown-menu-bs .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+}
+#dropdown-menu-bs .navbar,
+#dropdown-menu-bs .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-bs .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-bs .dropdown-menu a:hover,
+#dropdown-menu-bs .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-bs .navbar-toggler {
+  color: #ffffff;
+}
+#content1-bu P {
+  color: #000000;
+}
+#content5-bw .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-bw .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-bw .mbr-article {
+  color: #fff;
+}
+#content1-bx UL {
+  text-align: left;
+  color: #000000;
+}
+#content5-by .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-by .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-by .mbr-article {
+  color: #fff;
+}
+#content1-c0 P {
+  color: #000000;
+}
+#content1-c2 P {
+  color: #000000;
+}
+#content5-c3 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-c3 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-c3 .mbr-article {
+  color: #fff;
+}
+#msg-box3-c4 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-c4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-c4 .mbr-article P {
+  color: #000000;
+}
+#content5-c5 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-c5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-c5 .mbr-article {
+  color: #fff;
+}
+#msg-box3-c6 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-c6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-c6 .mbr-article P {
+  color: #000000;
+}
+#msg-box3-c6 .mbr-article LI {
+  color: #000000;
+}
+#content5-ca .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-ca .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-ca .mbr-article {
+  color: #fff;
+}
+#content1-cb P {
+  color: #000000;
+}
+#content5-cd .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ff0501;
+}
+#content5-cd .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-cd .mbr-article {
+  color: #fff;
+}
+#msg-box3-cf .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 36px;
+}
+#msg-box3-cf .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content1-cg P {
+  color: #000000;
+}
+#content1-cg DIV {
+  color: #000000;
+}
+#content1-ch DIV {
+  color: #000000;
+}
+#content1-ci P {
+  text-align: center;
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#content1-ci PRE {
+  text-align: center;
+}
+#msg-box3-cl .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 25px;
+}
+#msg-box3-cl .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-cl .mbr-article P {
+  text-align: center;
+}
+#content1-cm P {
+  font-size: 13px;
+  text-align: center;
+  color: #000000;
+}
