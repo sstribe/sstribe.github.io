@@ -3903,7 +3903,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5894,7 +5894,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -9257,7 +9257,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -11023,7 +11023,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12789,7 +12789,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -14554,7 +14554,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18662.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18663.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -16391,7 +16391,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
@@ -16405,10 +16405,10 @@
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#2c82c9",
             "bgVideoRadio": false,
             "bgVideo": {
