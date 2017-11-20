@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 462,
+    "uniqCompNum": 469,
     "versionPublish": "4.2.3",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
@@ -1795,7 +1795,7 @@
       "settings": {
         "title": "5 Punca Masalah Dengkur",
         "meta_descr": "Tidur Malam Lebih Aman Tanpa Dengkur",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2345,7 +2345,7 @@
       "settings": {
         "title": "Fakta Dengkur Yang Perlu Anda Tahu",
         "meta_descr": "Tidur Malam Lebih Aman Tanpa Dengkur",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2720,7 +2720,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3779,6 +3779,32 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/dFF32Y1rJzQ",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-d0"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3805,6 +3831,132 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "JELAJAH PEMBUKAAN BOOTH KE SELURUH MALAYSIA",
+          "text": "<p>Gambar di bawah salah satu pembukaan booth yang terbaru pada 11 November 2017 di Megamall Kuatan, Pahang.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-cy"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.06-pm-744x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.06-pm-744x992-744x992.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.05-pm-744x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.05-pm-744x992-744x992.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.07-pm-744x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.07-pm-744x992-744x992.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-8.03.48-pm-744x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-8.03.48-pm-744x992-744x992.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-4.03.43-pm-744x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-4.03.43-pm-744x992-744x992.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-4.03.42-pm-810x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-4.03.42-pm-810x1080-800x1066.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.05-pm-744x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.05-pm-744x992-744x992.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.06-pm-744x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-11-11-at-12.21.06-pm-744x992-744x992.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-cz"
         },
         {
           "_inherit": "msg-box3",
@@ -4343,7 +4495,7 @@
       "settings": {
         "title": "Mitos Tentang Dengkur",
         "meta_descr": "Ketahui mitos yang berlegar dalam kalangan masyarakat tentang dengkur.",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4594,7 +4746,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -6289,7 +6441,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -7934,7 +8086,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -9700,7 +9852,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -11466,7 +11618,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -13232,7 +13384,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -14998,7 +15150,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {

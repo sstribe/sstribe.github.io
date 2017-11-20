@@ -405,6 +405,21 @@
 #msg-box3-2s .mbr-article LI {
   color: #000000;
 }
+#content5-cy .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-cy .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-cy .mbr-article {
+  color: #fff;
+}
+#content5-cy .mbr-article P {
+  color: #000000;
+  text-align: center;
+}
 #content5-3k .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
