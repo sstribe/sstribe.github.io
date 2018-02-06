@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Penawar Dengkur",
-    "currentPage": "rawatandengkur.html",
+    "currentPage": "penawarmujarabdengkur.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -4206,7 +4206,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "PROMOSI BULAN INI UNTUK 50 TERAWAL!!!<br>",
+          "title": "PROMOSI BULAN INI UNTUK YANG TERAWAL!!!<br>",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -4282,13 +4282,13 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "DISKAUN 20%",
+          "title": "DISKAUN 20% + FREEGIFT",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "text": "Tapi kami hanya mampu untuk berikan untuk <b>50 pengguna </b>baru untuk bulan ini. Jadi hanya 50 yang terawal akan dapat diskaun ni. Untuk pengguna baru juga nanti kami akan bantu dan <b>bimbing</b> anda cara mula-mula pakai sampai la masalah <b>dengkur anda hilang</b> dari hidup anda dan membuatkan<b> tidur anda lebih berkualiti</b>.&nbsp;",
+          "text": "Promosi <b>Diskaun 20%</b> dan <b>Freegift(kuota terhad)</b> untuk yang terawal akan diberikan. Untuk pengguna baru juga nanti kami akan bantu dan <b>bimbing</b> anda cara mula-mula pakai sampai la masala beserta&nbsp;<b>dengkur anda hilang</b> dari hidup anda dan membuatkan<b> tidur anda lebih berkualiti</b>.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -4340,8 +4340,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ANDA MAHU JADI 50 ORANG YANG PERTAMA?<br>",
-          "text": "Whatsapp team kami <b>di 013-2571337</b>.<br>Atau anda klik butang di bawah untuk terus ke whatsapp.",
+          "title": "ANDA MAHU KAMI BANTU ANDA?<br><br>",
+          "text": "<b><i>Konsultasi PERCUMA akan diberikan</i></b><br><b><br></b><br>Whatsapp team kami <b>di 013-2571337</b><br>Atau anda klik butang di bawah untuk terus ke whatsapp",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"http://Snorky1.wasap.my\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Kami Bantu Anda</a>"
         },
         {
