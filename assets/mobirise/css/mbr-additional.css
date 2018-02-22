@@ -12,12 +12,12 @@
 }
 #dropdown-menu-a .navbar,
 #dropdown-menu-a .dropdown-menu {
-  background: #333333;
+  background: #252525;
 }
 #dropdown-menu-a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-a .dropdown-menu a:hover,
 #dropdown-menu-a .dropdown-menu a:focus {
-  background: #292929;
+  background: #1b1b1b;
 }
 #dropdown-menu-a .navbar-toggler {
   color: #ffffff;
@@ -478,32 +478,9 @@
 #content1-3l P {
   color: #000000;
 }
-#content5-ed .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #000000;
-}
-#content5-ed .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-ed .mbr-article {
-  color: #fff;
-}
-#msg-box4-eg .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-eg .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-eg .mbr-article {
-  color: #ffffff;
-}
-#msg-box4-eg .mbr-article P {
-  color: #000000;
-}
 #content5-cr .mbr-header .mbr-header__text {
   text-align: center;
-  color: #ff0501;
+  color: #b8312f;
 }
 #content5-cr .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -519,12 +496,6 @@
 }
 #msg-box3-5n .mbr-header .mbr-header__subtext {
   text-align: center;
-}
-#pricing-table1-eh UL {
-  text-align: center;
-}
-#pricing-table1-eh H3 {
-  color: #ffffff;
 }
 #content1-cs DIV {
   color: #000000;

@@ -245,10 +245,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#252525"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#1b1b1b"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2761,7 +2761,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Cara Pantas Dan Mudah Hilangkan Dengkur",
+          "title": "Cara Pantas Dan Mudah Hilangkan Masalah Dengkur",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_styles": {
@@ -4354,7 +4354,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#000000"
+              "color": "#b8312f"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -4377,125 +4377,6 @@
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#c5eaf9",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "Berapa harga produk ni?",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-ed"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "23",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-600x800.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Harga<br>RM110 SM<br>RM115 SS<br>",
-          "text": "<p>Satu unit untuk sebulan penggunaan</p><p>Satu unit 30ml</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "color": "#000000"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-eg"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#ff0501"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fac51c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4587,129 +4468,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_params": {
-            "showText": false,
-            "outside": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-01-10-at-7.42.36-am1-1000x1000.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-ej"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-01-10-at-7.42.36-am-1000x1000.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-ek"
-        },
-        {
-          "_params": {
-            "firstType": "blue",
-            "secondType": "hidden",
-            "thirdType": "favorite",
-            "fourthType": "blue",
-            "fifthType": "hidden",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "PAKEJ A",
-          "currency1": "RM",
-          "price1": "203",
-          "period1": "(3 Unit)",
-          "list1": "<ul><li><b>-RM67.60/unit</b></li><li><b>-</b>Untuk masalah dengkur kronik</li><li><b>-</b>Dengkur lebih 5 tahun</li><li><b>-Freegift</b> 2 unit unit sabun resdung+jerawat muka bernilai <b>RM78</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://sstribestore.onpay.my/order/form/snorkycream\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SAYA NAK</a>",
-          "title2": "BUSINESS",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "per month",
-          "list2": "<ul><li><b>80 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>20 GB</b> Bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title3": "PAKEJ B",
-          "currency3": "RM",
-          "price3": "153",
-          "period3": "(2 Unit)",
-          "list3": "<ul><li><b>-RM76.50/unit</b></li><li><b>-</b>Untuk masalah dengkur separa kronik</li><li><b>-</b>Dengkur 2 ke 5 tahun</li><li><b>-Freegift&nbsp;</b>1 unit sabun resdung+jerawat muka bernilai <b>RM39</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://sstribestore.onpay.my/order/form/snorkycream\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SAYA NAK</a>",
-          "title4": "PAKEJ C",
-          "currency4": "RM",
-          "price4": "83",
-          "period4": "(1 Unit)",
-          "list4": "<div style=\"text-align: center;\"><b>-</b>Untuk masalah dengkur tahap biasa<br></div><ul><li><b>-</b>Dengkur tidak melebihi 2 tahun</li><li><b><br></b></li></ul><p><br></p>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://sstribestore.onpay.my/order/form/snorkycream\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">SAYA NAK</a>",
-          "title5": "EXTENDED",
-          "currency5": "$",
-          "price5": "0",
-          "period5": "per month",
-          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-eh",
-          "_styles": {
-            "UL": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
           "text": "Promosi <b>Diskaun</b>&nbsp;dan <b>Freegift(kuota terhad)</b> untuk yang terawal akan diberikan&nbsp;",
           "_tags": [
             "Theme"
@@ -4773,7 +4531,7 @@
           },
           "title": "FAQ",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Ada side effect ke krim ni? \n</b></p><p>\n</p><p>Selamat di gunakan dan tiada side effect. Krim ni ada kelulusan KKM dan Halal dari jakim. Krim ni di perbuat daripada bahan semulajadi tak seperti kebanyakan Nasal Spray yang kebanyakan di pasaran yang mengandungi barang merbahaya terkawal seperti steroid.\n</p><p>\n</p><p>&nbsp;<b>Orang mengandung boleh pakai?</b></p><p>\n</p><p>Tiada masalah tiada apa-apa kesan bahaya.\n</p><p>\n</p><p><b>Ada asma boleh pakai ke?\n</b></p><p>\n</p><p>Tiada masalah, boleh gunakan macam biasa. Malahan krim ni juga amat sesuai untuk pesakit asma. Boleh kurangkan asma yang ada. Cuma perlu sapu sekali di bahagian dada.</p><p>\n</p><p><b>Budak kecil boleh pakai?\n</b></p><p>\n</p><p>Krim ni untuk umur 7 tahun keatas sahaja.\n</p><p>\n</p><p><b>Kalau demam dan selsema boleh pakai macam biasa ke?\n</b></p><p>\n</p><p>Amat sesuai jika di pakai ketika selsema teruk atau hidung tersumbat dan selesa di pakai ketika demam.\n</p><p>\n</p><p><b>Ada COD?\n</b></p><p>\n</p><p>COD hanya di Kuala Terengganu. Di HQ Jalan Padang Midin. Kami akan berikan sekali lokasi ke HQ. Whatsapp kami nombor di bawah.</p><p>\n</p><p><br></p>",
+          "text": "<p><b>Ada side effect ke krim ni? \n</b></p><p>\n</p><p>Selamat di gunakan dan tiada side effect. Krim ni ada kelulusan KKM dan Halal dari jakim. Krim ni di perbuat daripada bahan semulajadi tak seperti kebanyakan Nasal Spray yang kebanyakan di pasaran yang mengandungi barang merbahaya terkawal seperti steroid.\n</p><p>\n</p><p>&nbsp;<b>Orang mengandung boleh pakai?</b></p><p>\n</p><p>Tiada masalah tiada apa-apa kesan bahaya.\n</p><p>\n</p><p><b>Ada asma boleh pakai ke?\n</b></p><p>\n</p><p>Tiada masalah, boleh gunakan macam biasa. Malahan krim ni juga amat sesuai untuk pesakit asma. Boleh kurangkan asma yang ada. Cuma perlu sapu sekali di bahagian dada.</p><p>\n</p><p><b>Budak kecil boleh pakai?\n</b></p><p>\n</p><p>Krim ni untuk umur 7 tahun keatas sahaja.\n</p><p>\n</p><p><b>Kalau demam dan selsema boleh pakai macam biasa ke?\n</b></p><p>\n</p><p>Amat sesuai jika di pakai ketika selsema teruk atau hidung tersumbat dan selesa di pakai ketika demam.\n</p><p>\n</p><p><br></p><p>\n</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -4808,7 +4566,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ANDA ADA SEBARANG PERTANYAAN?<br>",
+          "title": "ANDA BERMINAT UNTUK KAMI BANTU HILANGKAN DENGKUR?<br>",
           "text": "<br><b><br></b><br>Whatsapp/Message/Call team kami <b>di 013-2571337</b><br>Atau anda klik butang di bawah untuk terus ke whatsapp",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"http://Snorky1.wasap.my\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Whatsapp</a>",
           "_styles": {
@@ -5026,10 +4784,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "KLIK BUTANG DI BAWAH<br>UNTUK PEMBELIAN ONLINE",
+          "title": "KLIK BUTANG DI BAWAH<br>UNTUK TERUS KE WHATSAPP",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Whatsapp team kami di 013-2571337.</p><p>Atau anda klik butang di bawah untuk terus ke whatsapp.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://sstribestore.onpay.my/order/form/snorkycream\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Pembelian<br></a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://Snorky1.wasap.my\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Pembelian<br></a>"
         },
         {
           "_tags": [
@@ -6502,7 +6260,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -9865,7 +9623,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -11631,7 +11389,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -13397,7 +13155,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -15162,7 +14920,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18661.jpg",
+              "src": "@PROJECT_PATH@/assets/images/19369889-1626388734072260-1274748613-n-1400x18660.jpg",
               "link": "",
               "alt": "",
               "title": "",
