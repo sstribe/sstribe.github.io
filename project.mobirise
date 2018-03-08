@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Penawar Dengkur",
-    "currentPage": "penawarmujarabdengkur.html",
+    "currentPage": "penawardengkur.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19,7 +19,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-101183506-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "html_before": "<!-- Google Code for Remarketing Tag -->\r\n<!--------------------------------------------------\r\nRemarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup\r\n--------------------------------------------------->\r\n<script type=\"text/javascript\">\r\n/* <![CDATA[ */\r\nvar google_conversion_id = 848705099;\r\nvar google_custom_params = window.google_tag_params;\r\nvar google_remarketing_only = true;\r\n/* ]]> */\r\n</script>\r\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\r\n</script>\r\n<noscript>\r\n<div style=\"display:inline;\">\r\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/848705099/?guid=ON&script=0\"/>\r\n</div>\r\n</noscript>\r\n",
+    "html_before": "<!-- Google Code for Remarketing Tag -->\r\n<!--------------------------------------------------\r\nRemarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup\r\n--------------------------------------------------->\r\n<script type=\"text/javascript\">\r\n/* <![CDATA[ */\r\nvar google_conversion_id = 848705099;\r\nvar google_custom_params = window.google_tag_params;\r\nvar google_remarketing_only = true;\r\n/* ]]> */\r\n</script>\r\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\r\n</script>\r\n<noscript>\r\n<div style=\"display:inline;\">\r\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/848705099/?guid=ON&script=0\"/>\r\n</div>\r\n</noscript>\r\n<script type=\"text/javascript\">\r\n_linkedin_data_partner_id = \"201083\";\r\n</script><script type=\"text/javascript\">\r\n(function(){var s = document.getElementsByTagName(\"script\")[0];\r\nvar b = document.createElement(\"script\");\r\nb.type = \"text/javascript\";b.async = true;\r\nb.src = \"https://snap.licdn.com/li.lms-analytics/insight.min.js\";\r\ns.parentNode.insertBefore(b, s);})();\r\n</script>\r\n<noscript>\r\n<img height=\"1\" width=\"1\" style=\"display:none;\" alt=\"\" src=\"https://dc.ads.linkedin.com/collect/?pid=201083&fmt=gif\" />\r\n</noscript>",
     "headbody": "",
     "botbody": "",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
