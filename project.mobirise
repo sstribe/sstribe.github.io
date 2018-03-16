@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Penawar Dengkur",
-    "currentPage": "penawardengkur.html",
+    "currentPage": "penawarmujarabdengkur.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 529,
-    "versionPublish": "4.2.3",
+    "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/20120669-1657478674296599-1797100377-n-128x227.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -4567,7 +4567,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ANDA BERMINAT UNTUK KAMI BANTU HILANGKAN DENGKUR?<br>",
-          "text": "<br><b><br></b><br>Whatsapp/Message/Call team kami <b>di 013-2571337</b><br>Atau anda klik butang di bawah untuk terus ke whatsapp",
+          "text": "<br><b><br></b><br>Whatsapp/Message/Call team kami <b>di 014-8476025</b><br>Atau anda klik butang di bawah untuk terus ke whatsapp",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"http://Snorky1.wasap.my\" data-toolbar=\"-mbrBtnMove\">Klik Sini Untuk Whatsapp</a>",
           "_styles": {
             "P": {
